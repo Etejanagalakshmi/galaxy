@@ -27,3 +27,14 @@ s.no|name|roll
 -----|---|----
 1|teja|208w1a05e6
 2|vasavi|208w1a05d2
+
+@octocat :+1: This PR looks great - it's ready to merge! :shipit:
+
+:smiley::joy::upside_down_face::wink:
+
+~~this text was mistaken~~
+
+<!-- This content will not appear in the rendered Markdown -->
+
+**This text is _extremely_ important**
+
